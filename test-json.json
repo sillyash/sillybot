@@ -1,0 +1,17 @@
+{
+    "username": "Test Webhook",
+    "avatar_url": "https://discohook.org/static/discord-avatar.png",
+    "content": null,
+    "embeds": [{
+        "title": "Test Embed",
+        "description": "This is a test embed",
+        "color": 16777215,
+        "author": {
+            "name": "Webhook Bot",
+            "icon_url": "https://discohook.org/static/discord-avatar.png"
+        },
+        "image": {
+            "url": "https://media1.tenor.com/m/MCJFAavmyJwAAAAd/rizzler-the-rizzler.gif"
+        }
+    }]
+}
