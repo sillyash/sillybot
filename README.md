@@ -6,11 +6,11 @@ A silly Discord bot
 ### Usage
 
 ```bash
-./discohook <json file> <webhook url>
+./discohook.sh <json file> <webhook url>
 ```
 
 ```bash
-./discohook --ban <user_id>
+./discohook.sh --ban <user_id>
 ```
 
 Note that the `--ban` command doesn't ban someone, it just send a quirky message mentioning that person.
